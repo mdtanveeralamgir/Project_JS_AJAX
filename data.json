@@ -1,0 +1,75 @@
+[
+  { 
+    "name":"Beef Stake",
+    "shortname":"beefstake",
+    "ingredient":"Beef, Soy sauce, Lemon, Black pepper, Garlic",
+    "type": "nonveg",
+    "for": "halal",
+    "price": "8"
+  },
+  { 
+    "name":"Chicken Biriani",
+    "shortname":"chickenbiriani",
+    "ingredient":"Chicken, Yogurt, Red chili powder, Turmeric, Ginger garlic paste",
+    "type": "nonveg",
+    "for": "halal",
+    "price": "7.5"
+  },
+  {
+    "name":"Chicken Roast",
+    "shortname":"chickenroast",
+    "ingredient":"Roasting chicken, Black pepper, Lemon, Garlic, Butter",
+    "type": "nonveg",
+    "for": "halal",
+    "price": "7"
+  },
+  {
+    "name":"Kachi Biriani",
+    "shortname":"kachibiriani",
+    "ingredient":"Beef, Rice, Red chili powder, Garlic, Butter",
+    "type": "nonveg",
+    "for": "halal",
+    "price": "11"
+  },
+  {
+    "name":"Snow ball",
+    "shortname":"snowball",
+    "ingredient":"Milk, Egg, Sugar, Cream",
+    "type": "veg",
+    "for": "halal",
+    "price": "4.5"
+  },
+  {
+    "name":"China Badam's borfy",
+    "shortname":"chinaBadamsborfy",
+    "ingredient":"Nut, Cucumber, Sugar, Latus",
+    "type": "veg",
+    "for": "halal",
+    "price": "5"
+  },
+  {
+    "name":"Green Salad",
+    "shortname":"greensalad",
+    "ingredient":"Latus, Cucumber, Onion, Sauce",
+    "type": "veg",
+    "for": "halal",
+    "price": "3.5"
+  },
+  {
+    "name":"Mutton bhuna",
+    "shortname":"mutton",
+    "ingredient":"Mutton, Garlic, Butter, Latus",
+    "type": "nonveg",
+    "for": "halal",
+    "price": "10.5"
+  },
+  {
+    "name":"Mutton bhuna",
+    "shortname":"",
+    "ingredient":"Mutton, Garlic, Butter, Latus",
+    "type": "nonveg",
+    "for": "halal",
+    "price": "10.5"
+  }
+
+]
